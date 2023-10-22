@@ -1,4 +1,5 @@
-CI/CD with Jenkins
+# CI/CD with Jenkins
+
 This is my Continuous Integration and Continuous Deployment. In this project, we install devops tools like jenkins,maven, sonarqube, nexus, tomcat and also write jenkins declarative pipeline for continuous integration and continuous deployment with all the stages
 
 ![4](https://github.com/Nidhidevops/CI-CD-Jenkins-Pipeline/assets/140115299/6602b3e0-967a-4d1b-a01f-a668b2dcc200)
