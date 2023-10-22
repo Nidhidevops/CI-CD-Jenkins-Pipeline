@@ -1,8 +1,8 @@
 CI/CD with Jenkins
-This is my Continuous Integration and Continuous Deployment. I use various tools to build the pipeline
+This is my Continuous Integration and Continuous Deployment. In this project, we install devops tools like jenkins,maven, sonarqube, nexus, tomcat and also write jenkins declarative pipeline for continuous integration and continuous deployment with all the stages
 
-![4](https://github.com/Nidhidevops/chinna-app/assets/140115299/79431c34-29be-46de-9060-dd86c4bdb25e)
-![5](https://github.com/Nidhidevops/chinna-app/assets/140115299/35ad2e40-e7f1-46dc-8972-35956d1cf764)
-![2](https://github.com/Nidhidevops/chinna-app/assets/140115299/5a49ae4b-3e44-47b4-b8a0-1e65e6197670)
-![3](https://github.com/Nidhidevops/chinna-app/assets/140115299/0686fcd9-ef08-49fd-90de-1603335c8695)
-
+![4](https://github.com/Nidhidevops/CI-CD-Jenkins-Pipeline/assets/140115299/6602b3e0-967a-4d1b-a01f-a668b2dcc200)
+![3](https://github.com/Nidhidevops/CI-CD-Jenkins-Pipeline/assets/140115299/1ac1aa13-ef6c-4aaa-9226-8b819060d073)
+![2](https://github.com/Nidhidevops/CI-CD-Jenkins-Pipeline/assets/140115299/441e4bfe-b511-464e-9310-2703e381a5ba)
+![1](https://github.com/Nidhidevops/CI-CD-Jenkins-Pipeline/assets/140115299/acc2e8ce-8a8b-466a-98b3-fba513dd3331)
+![5](https://github.com/Nidhidevops/CI-CD-Jenkins-Pipeline/assets/140115299/3ff79744-a194-4383-b451-428edba318cd)
